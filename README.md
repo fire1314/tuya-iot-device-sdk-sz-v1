@@ -10,8 +10,10 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 二，应用场景
 ==
 
-  地点：有养猫的家庭
+  地点：
   --
+    有养猫的家庭
+    
   功能介绍：
   --
     1，设定定时定量的投放猫粮的计划，免得猫咪挨饿
