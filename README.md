@@ -1,7 +1,13 @@
 # tuya-iot-device-sdk-sz-v1
-tuya Pet feeder
---
-This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         For more information, please check Tuya Developer Website.
+
+This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         
+For more information, please check Tuya Developer Website.
+
+背景说明：
+==
+    如今大城市养猫人越来越多，宠物市场蓬勃发展，由于独居的状态很多，导致无法很好的照顾猫咪，尤其是新冠疫情期间，出现了猫咪被饿死的情况。
+    如何保证人不在家的情况下猫咪的正常饮食，成为了一个迫切的需求，因此要研发一款智能宠物喂食器，来解决这个问题。
+
 
 一，方案标题
 ==
@@ -33,6 +39,6 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
   3月30日前完成.
   --
     1，3月10前准备物料 
-    2，3月10-25日嵌入式开发、云开发 
-    3，3月25日前整体调试 
+    2，3月10-25日结构件制作，板子框图设计和硬件制作，嵌入式开发、云开发 
+    3，3月25日前整体调试
  
